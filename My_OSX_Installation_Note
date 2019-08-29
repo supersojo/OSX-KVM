@@ -15,3 +15,10 @@ But when passthrough gtx650, some work to be done.
 - Install multibeast to change system defination to IMac14,2
   Or Install clover configurator to change system defination
 - Install hackintools to install Lilu and Whatevergreen kexts to /L/E (maybe not needed i will check later)
+
+No DVI or hdmi cable at hand so i use vga right now. Maybe it's the cause for me to change system defination to IMac14,2.
+I buy DVI cable recently so i will check later.
+
+The sleep function doesnt work, just disable sleep in osx.
+
+My usb mouse cant passthrough so i select another one then it works well.I dont know why.
