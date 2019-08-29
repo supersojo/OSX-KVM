@@ -1,0 +1,17 @@
+The hardware
+- i5 6500 (skylake 1151)
+- giga b150m-d3h
+- gtx650
+  - because the origion vbios doesnt support uefi so use below method to enable uefi support vbios
+  - (https://www.win-raid.com/t892f16-AMD-and-Nvidia-GOP-update-No-requests-DIY.html)
+
+The software
+- manjaro
+- qemu
+- virt-manager
+
+According HighSierra note in OSX-KVM, we can install HighSierra very easyly.
+But when passthrough gtx650, some work to be done.
+- Install multibeast to change system defination to IMac14,2
+  Or Install clover configurator to change system defination
+- Install hackintools to install Lilu and Whatevergreen kexts to /L/E (maybe not needed i will check later)
